@@ -17,8 +17,10 @@ To create and display a **DataFrame** using the **Pandas** library in Python fro
 ---
 
 ## 💻 Program
-Add code here
+<img width="810" height="497" alt="image" src="https://github.com/user-attachments/assets/c709fd9b-d573-48f6-9ad1-4866162c8541" />
 
 ## Output
+![Uploading image.png…]()
 
 ## Result
+![Uploading image.png…]()
