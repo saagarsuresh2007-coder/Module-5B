@@ -12,8 +12,10 @@ To write a **NumPy** program that deletes the second column from a given 2D arra
 
 ## 🧾 Program
 
-Add code here
+<img width="810" height="324" alt="image" src="https://github.com/user-attachments/assets/4d6784c4-84bd-452d-b859-ec7bcd828858" />
 
 ## Output
+<img width="810" height="324" alt="image" rc="https://github.com/user-attachments/assets/4d6784c4-84bd-452d-b859-ec7bcd828858" />
 
 ## Result
+<img width="810" hight="324" alt="image" src="https://github.com/user-attachments/assets/4d6784c4-84bd-452d-b859-ec7bcd828858" />
